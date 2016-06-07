@@ -7,6 +7,10 @@ import java.io.*;
 public class Main {
     public static void main (String[] args){
 
+        // I am adding a comment here.
+
+        System.out.println("Can this please move to github as well");
+
 
         try {
             HashMap<Character, Integer> hmap = new HashMap<Character, Integer>();
